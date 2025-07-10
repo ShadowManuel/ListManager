@@ -5,19 +5,17 @@
    npm install
    ```
 
-2. Start the development server:
-   ```bash
-   npm start
-   ```
-
-3. Run all tests:
-   ```bash
-   npm test
-   ```
-
-4. Compile TypeScript to JavaScript:
+2. Compile TypeScript to JavaScript:
    ```bash
    npx tsc
    ```
 
-Viel Spaß beim Ausprobieren!
+3. Start the development server:
+   ```bash
+   npm start
+   ```
+
+4. Run all tests:
+   ```bash
+   npm test
+   ```
